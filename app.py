@@ -11,7 +11,7 @@ import json
 st.set_page_config(page_title="AI Job Market Intelligence 2026", layout="wide", page_icon="📈")
 
 # Aapki original, verified AQ wali key
-API_KEY = "AQ.Ab8RN6JdNdWDHoNxqyVev0va0lp9GB1SXWmX1IISXUqg4ek3Aw"
+API_KEY = "enter your api key here"
 
 # --- 2. SQL DATA RETRIEVAL FUNCTION ---
 def fetch_sql_data():
